@@ -1,0 +1,17 @@
+// const Day= " monday "
+
+// console.log(Day)
+
+// const position ="4th"
+// console.log(position)
+
+// const sentence1="today  is "
+// console.log( sentence1) 
+
+// const sentence2="which is the "
+// console.log(sentence2)
+// const sentence3="frist day of the week"
+// console.log (sentence3)
+
+// const all=(sentence1 +  Day + "," + sentence2 + sentence3 )
+// console.log(all)
