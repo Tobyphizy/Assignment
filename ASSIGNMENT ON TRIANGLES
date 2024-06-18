@@ -1,0 +1,19 @@
+const side1='equalateral'
+console.log(side1)
+
+const side2= 'isosceles triangle'
+console.log(side2)
+
+const side3='scalene triangle'
+console.log(side3)
+
+i
+    if ('side1 === side2 && side2 === side3') {
+        console.log(Equilateral triangle);
+      } else if ('side1 === side2 || side1 === side3 || side2 === side3') {
+        console.log( Isosceles triangle) ;
+      } else {
+        console.log(Scalene triangle);
+      }
+      
+
