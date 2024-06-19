@@ -1,0 +1,8 @@
+const age= 19
+console.log(age)
+
+if (age%2){
+    console.log(age "is odd")
+} else{
+    console.log (age "is even")
+}
