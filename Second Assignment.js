@@ -5,11 +5,11 @@
 //      console.log ("age is even")
 //      }
 
- const age= 8
-if(number % 2 ==0){
+ const number= 9
+if(number % 2 ===0){
     console.log("number is even")
 }
 else{
     console.log("number is odd")
 }
-        
+   
