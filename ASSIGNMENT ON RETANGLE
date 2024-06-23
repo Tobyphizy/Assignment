@@ -1,0 +1,12 @@
+function calculateAreaOfRectangle(length,width){
+    console.log(length*width)
+}
+
+calculateAreaOfRectangle(27,5)
+calculateAreaOfRectangle(28,4)
+calculateAreaOfRectangle(29,3)
+calculateAreaOfRectangle(30,2)
+calculateAreaOfRectangle(31,1)
+
+
+    
