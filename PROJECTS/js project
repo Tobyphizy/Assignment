@@ -1,0 +1,29 @@
+
+
+  
+// //   function total(){
+// //     sum=0
+// //     let numbers = [45, 2, 56, 15]
+// //     for (let i=0; i<numbers.length;i++){
+// //         sum+=numbers[i]
+// //     }
+// //     console.log(sum)
+// // }
+// total();
+
+// (let i= 0; i <= 100; i++){
+//   if (i % 2 === 0) {
+//     console.log(i);
+//   }
+// }
+
+
+function even(){
+  for(let i=0; i<100; i++)
+  if(i%2===0){
+      console.log(i)
+  }
+}
+even();
+  
+  

@@ -1,0 +1,10 @@
+
+
+   
+{
+   "name:"vehicle"
+   "type"; "car"
+    "color";"black" 
+   "part"; ("tire","side miror")
+}
+  

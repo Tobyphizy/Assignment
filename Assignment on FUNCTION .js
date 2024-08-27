@@ -1,7 +1,7 @@
-// function total(c,d,e,f,g){
-//     console.log(c+d+e+f+g)
-// }
-// total(1,2,9,3,5,)
+function total(c,d,e,f,g){
+   console.log(c+d+e+f+g)
+}
+total(1,2,9,3,5,)
 
 // function subject (course){
 //     console.log(`am about to list out my courses called ${course}`)

@@ -1,0 +1,6 @@
+
+
+const friends = ["Omobolanle", "Faith", "Oyindamola", "Modupeola", "kafaya", "Lolade"];
+console.log(friends);
+friends.push('omobolanle')
+console.log(friends)

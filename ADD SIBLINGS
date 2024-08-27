@@ -1,0 +1,10 @@
+const person={
+    name:'nick',
+    age: 24,
+    siblings: ('Richard','ken','jane'),
+    addsibling: function(name){
+        person.siblings.push(name)
+    }
+}
+person.addsibling('henry')
+console.log(person)

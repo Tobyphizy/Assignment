@@ -1,0 +1,21 @@
+const myObject= {
+    name:'car',
+    color:'red',
+    price:250000
+
+}
+const door={
+    isopen:false,
+    material:'wood',
+    height:8,
+    toggleOpenAndClose:function(){
+        if(door.isopen===true){
+            door.isopen===false
+        }else{
+            door.isopen===true
+        }
+
+    }
+}
+door.toggleOpenAndClose()
+console.log(door.isopen)
